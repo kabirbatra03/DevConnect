@@ -12,6 +12,8 @@ Sending http:// requests using Postman ( https://www.postman.com/ )
   "githubToken": "<yoursecrectaccesstoken>"
 }
 ```
+GithubToken
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
 
 ### Install server dependencies
 
