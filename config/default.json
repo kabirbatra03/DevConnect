@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://kabirbatra:kabirbatra@mern.ruprb.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "kabirbatra",
-  "githubToken": "9aa62736e789d48a05e7b321452576fa145a1430"
-}
