@@ -2,7 +2,7 @@ import { SET_ALERT, REMOVE_ALERT } from '../actions/types';
 
 const initialState = [];
 
-export default (state = initialState, action) => {
+export default function (state = initialState, action) {
   const { type, payload } = action;
   switch (type) {
     case SET_ALERT:
@@ -12,4 +12,4 @@ export default (state = initialState, action) => {
     default:
       return state;
   }
-};
+}
